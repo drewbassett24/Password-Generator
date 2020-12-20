@@ -3,5 +3,5 @@ The process that the code was supposed to follow was quite convoluted so I found
 I ended up re-writing the whole thing before I'd finished.
 I certainly benefitted from a lot of help from classmates!
 Please look below for my attached screenshots. Thanks for your assessment!
-![web screenshot](/Screenshot 2020-12-20 191643.png)
+![web screenshot](PasswordGen/Screenshot 2020-12-20 191643.png)
 ![web screenshot](
