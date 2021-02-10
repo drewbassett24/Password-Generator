@@ -8,9 +8,9 @@ var chosenArray = [];
 
 document.getElementById("generate").addEventListener("click", writePassword);
 function writePassword(){
-      var numbers = confirm("Would you like numbers in your password?");
-      var special = confirm("Would you like special characters in your password?");
-      var passwordCase = confirm("Would you like upper case letters in your password?");
+      var numbers = confirm("Would you like to use numbers in your password?");
+      var special = confirm("Would you like to use special characters in your password?");
+      var passwordCase = confirm("Would you like to use upper case letters in your password?");
       var passwordLength = takePasswordLength();
       chooseCharacters(numbers, special, passwordCase);
       pickRand(passwordLength);
